@@ -1,9 +1,9 @@
 {
-  "name": "kongkodesoft/asaas-sdk",
+  "name": "kongkodesoft/sdk-asaas",
   "type": "library",
   "description": "SDK PHP para a API v3 do Asaas.com, focado em recorrência (cartão e Pix Automático) e pagamentos instantâneos (Pix e cartão). Seguro para coroutines Swoole.",
   "keywords": ["Asaas", "API", "Pix", "Pix Automático", "Credit Card", "Subscription", "Swoole"],
-  "homepage": "https://github.com/kongkodesoft/asaas-sdk",
+  "homepage": "https://github.com/kongkodesoft/sdk-asaas",
   "license": "BSD-2-Clause",
   "authors": [
     {
