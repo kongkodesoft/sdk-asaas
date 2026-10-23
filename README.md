@@ -185,4 +185,4 @@ Veja [CONTRIBUTING.md](CONTRIBUTING.md). `composer check` roda estilo, PHPStan e
 
 ## Licença
 
-MIT.
+BSD2.
